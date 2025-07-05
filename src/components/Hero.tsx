@@ -70,7 +70,7 @@ const Hero = () => {
                className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 group">
               <Linkedin className="w-6 h-6 group-hover:text-blue-400 transition-colors" />
             </a>
-            <a href="mailto:anupamachaudhary183@gmail.com"
+            <a href="anupamachaudhary183@gmail.com"
                className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 group">
               <Mail className="w-6 h-6 group-hover:text-blue-400 transition-colors" />
             </a>
