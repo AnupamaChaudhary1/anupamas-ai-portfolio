@@ -66,7 +66,7 @@ const Hero = () => {
                className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 group">
               <Github className="w-6 h-6 group-hover:text-blue-400 transition-colors" />
             </a>
-            <a href="https://www.linkedin.com/in/anupama-chaudhary" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/anupama-chaudhary-639629269/" target="_blank" rel="noopener noreferrer"
                className="p-4 bg-white/10 backdrop-blur-sm rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110 group">
               <Linkedin className="w-6 h-6 group-hover:text-blue-400 transition-colors" />
             </a>
