@@ -11,7 +11,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
       tags: ["AI/ML", "Lovable.dev", "NLP", "React", "TypeScript"],
       demoUrl: "https://lovable.dev/projects/a4c8d7d3-825e-4eff-8fa4-ca8bb89ceef8",
-      githubUrl: "https://github.com/anupama/ai-assistant",
+      githubUrl: "https://github.com/AnupamaChaudhary1/ai-assistant",
       icon: Bot,
       category: "AI Application",
       status: "Live"
@@ -23,7 +23,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
       tags: ["Python", "Scikit-learn", "XGBoost", "Time Series", "MLOps"],
       demoUrl: "https://sales-forecast-demo.streamlit.app",
-      githubUrl: "https://github.com/anupama/sales-forecasting",
+      githubUrl: "https://github.com/AnupamaChaudhary1/sales-forecasting",
       icon: TrendingUp,
       category: "Machine Learning",
       status: "Production"
@@ -35,7 +35,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&h=600&fit=crop",
       tags: ["Python", "YOLOv8", "OpenCV", "TensorFlow", "Edge AI"],
       demoUrl: "https://object-detection-demo.herokuapp.com",
-      githubUrl: "https://github.com/anupama/cv-object-detection",
+      githubUrl: "https://github.com/AnupamaChaudhary1/cv-object-detection",
       icon: Camera,
       category: "Computer Vision",
       status: "Live"
@@ -47,7 +47,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
       tags: ["Python", "Streamlit", "PostgreSQL", "Plotly", "Pandas"],
       demoUrl: "https://customer-analytics-dashboard.streamlit.app",
-      githubUrl: "https://github.com/anupama/customer-analytics",
+      githubUrl: "https://github.com/AnupamaChaudhary1/customer-analytics",
       icon: BarChart3,
       category: "Data Analytics",
       status: "Live"
@@ -59,7 +59,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=600&fit=crop",
       tags: ["Python", "BERT", "FastAPI", "Transformers", "Docker"],
       demoUrl: "https://sentiment-api.herokuapp.com/docs",
-      githubUrl: "https://github.com/anupama/sentiment-analysis-api",
+      githubUrl: "https://github.com/AnupamaChaudhary1/sentiment-analysis-api",
       icon: MessageSquare,
       category: "NLP",
       status: "Production"
@@ -71,7 +71,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
       tags: ["Python", "Isolation Forest", "Autoencoders", "Kafka", "Elasticsearch"],
       demoUrl: "https://anomaly-detection-demo.streamlit.app",
-      githubUrl: "https://github.com/anupama/anomaly-detection",
+      githubUrl: "https://github.com/AnupamaChaudhary1/anomaly-detection",
       icon: Eye,
       category: "Machine Learning",
       status: "Beta"
