@@ -30,7 +30,7 @@ const Contact = () => {
       title: "Email",
       value: "anupamachaudhary183@gmail.com",
       description: "For project inquiries and collaborations",
-      href: "anupamachaudhary183@gmail.com"
+      href:"mailto:anupamachaudhary183@gmail.com"
     },
     {
       icon: Phone,
