@@ -206,7 +206,7 @@ const Projects = () => {
             </p>
           </div>
           <a 
-            href="https://github.com/anupama" 
+            href="https://github.com/AnupamaChaudhary1?tab=repositories" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-gray-800 to-gray-900 dark:from-gray-700 dark:to-gray-800 text-white rounded-full hover:from-gray-900 hover:to-black dark:hover:from-gray-600 dark:hover:to-gray-700 transition-all duration-300 hover:scale-105 shadow-lg"
